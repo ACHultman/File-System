@@ -1,6 +1,5 @@
 /*
 Author: Adam Hultman
-Student Number: V00900702
 Date: 30/10/2019
 */
 
